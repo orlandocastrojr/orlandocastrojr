@@ -62,6 +62,9 @@ O objetivo desse perfil é manter acessíveis e atualizadas todas as experiênci
 
 ---
 
+#### 🏛️ Projetos com análise de dados
+- [**painel-emendas**](https://github.com/orlandovcj/painel-emendas): Painel para monitoramento de obras públicas financiadas por transferências especiais da União (Emendas PIX).
+
 
 ### 📊 Métricas & Atividade no GitHub
 
